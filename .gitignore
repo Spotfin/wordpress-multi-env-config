@@ -11,3 +11,6 @@ Thumbs.db
 /.settings
 /.buildpath
 .idea
+
+# Config Files #
+wp-config.local.php
